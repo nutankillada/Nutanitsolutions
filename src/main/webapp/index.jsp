@@ -6,6 +6,7 @@
         h1 {
             color: blue;
             font-family: cursive;
+            background-color: green;
         }
     </style>
 </head>
