@@ -1,22 +1,5 @@
 <<!DOCTYPE html>
 <html>
-<head>
-    <title>NutanIT solutions,symbol of excellence</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        h1 {
-            color: #333;
-        }
-        .contact-info {
-            margin-top: 20px;
-        }
-        .address {
-            margin-top: 20px;
-        }
-    </style>
-</head>
 <body>
     <h1>Welcome to NutanIT solutions,symbol of excellence</h1>
     
