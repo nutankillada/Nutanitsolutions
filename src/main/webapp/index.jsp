@@ -1,7 +1,7 @@
 <<!DOCTYPE html>
 <html>
 <head>
-    <title>NutanIT solutions</title>
+    <title>NutanIT solutions,symbol of excellence</title>
     <style>
         body {
             font-family: Arial, sans-serif;
