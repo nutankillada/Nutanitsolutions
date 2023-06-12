@@ -1,5 +1,14 @@
 <<!DOCTYPE html>
 <html>
+    <head>
+    <title>NutanIT solutions</title>
+    <style>
+        h1 {
+            color: blue;
+            font-family: cursive;
+        }
+    </style>
+</head>
 <body>
     <h1>Welcome to NutanIT solutions,symbol of excellence</h1>
     
