@@ -5,8 +5,7 @@
     <style>
         h1 {
             color: blue;
-            font-family: cursive;
-            
+            font-family: cursive;   
         }
     </style>
 </head>
