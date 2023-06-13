@@ -6,11 +6,12 @@
         h1 {
             color: blue;
             font-family: cursive;
-            background-color: green;
+            
         }
     </style>
 </head>
 <body>
+background-color: green;
     <h1>Welcome to NutanIT solutions,symbol of excellence</h1>
     
     <h2>About Us</h2>
