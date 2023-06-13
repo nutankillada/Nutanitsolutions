@@ -4,7 +4,7 @@
     <title>NutanIT solutions</title>
     <style>
         h1 {
-            color: blue;
+            color: black;
             font-family: cursive;   
 
         }
