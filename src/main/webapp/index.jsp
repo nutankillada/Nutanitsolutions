@@ -11,7 +11,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to NutanIT solutions,symbol of excellence</h1>
+    <h1>Welcome to NutanIT solutions,symbol of excellence since years.</h1>
     <h2>About Us</h2>
     <p>where we strive to provide quality education and promote learning in a supportive environment.
        Our experienced faculty and comprehensive curriculum ensure that our students receive a well-rounded education.</p>
